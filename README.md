@@ -4,7 +4,7 @@
 
 👀 I am interested in machine learning and data engineering.
 
-💬 Ask me about Data engineering, SQL, Databases, Data Pipelines, Data Infrastructure, Data Science Engineering,Data Product Manager
+💬 Ask me about Data engineering, SQL, Databases, Data Pipelines, Data Infrastructure, Data Science Engineering, Innovative Product Management
 
 📄 Know about my experiences: https://www.linkedin.com/in/josephitopa
 
