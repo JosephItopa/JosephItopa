@@ -4,15 +4,15 @@
 
 👀 I am interested in machine learning and data engineering.
 
-💬 Ask me about Data engineering, SQL, Databases, Data pipelines, Data infrastructure
+💬 Ask me about Data engineering, SQL, Databases, Data Pipelines, Data Infrastructure, Data Science Engineering,Data Product Manager
 
 📄 Know about my experiences: https://www.linkedin.com/in/josephitopa
 
-👨‍💻 All of my projects are available at https://github.com/josephmachado
+👨‍💻 All of my projects are available at:
         
-        - data engineering:
+        - data engineering: https://github.com/JosephItopa/data_engineering_projects
 
-        - machine learning:
+        - machine learning: https://github.com/JosephItopa/machine_learning_projects
 
 Connect with me:
 
