@@ -1,5 +1,4 @@
 ## Hi 👋
-/hr
 
 💞️ I practice and write about data engineering | data modeling | machine learning
 
