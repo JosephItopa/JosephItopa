@@ -19,7 +19,11 @@ Connect with me:
 @josephitopa https://www.linkedin.com/in/josephitopa
 
 Languages and Tools:
+
  aws | gcp | bash | flask | fastapi | git 
+ 
  mysql | postgresql | sqlite | hadoop | hive | clickhouse
+ 
  pandas | python | redis | scala | scikit_learn | pyspark
+ 
  airflow | pinecone | openai | yolov5 | pytorch | docker 
