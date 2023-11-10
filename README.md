@@ -6,7 +6,7 @@
 
 💬 Ask me about Data engineering, SQL, Databases, Data Pipelines, Data Infrastructure, Data Science Engineering, Innovative Product Management
 
-📄 Know about my experiences: https://www.linkedin.com/in/josephitopa
+📄 Know about my experiences: https://josephitopa.github.io
 
 👨‍💻 All of my projects are available at:
         
