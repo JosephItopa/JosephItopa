@@ -2,7 +2,7 @@
 
 💞️ I practice and write about data engineering | data modeling | machine learning
 
-👀 I am interested in machine learning and data engineering.
+👀 I am interested in data engineering and machine learning.
 
 💬 Ask me about Data engineering, SQL, Databases, Data Pipelines, Data Infrastructure, Data Science Engineering, Innovative Product Management
 
