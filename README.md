@@ -24,6 +24,6 @@ Languages and Tools:
  
  mysql | postgresql | sqlite | hadoop | hive | clickhouse
  
- pandas | python | redis | scala | scikit_learn | pyspark
+ pandas | python | kafka | redis | scikit_learn | pyspark | pytorch
  
- airflow | pinecone | openai | yolov5 | pytorch | docker 
+ airflow | pinecone | claude | openai | docker | kubernetes | argocd | openshift | tanzu | istio  
