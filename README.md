@@ -1,10 +1,10 @@
 ## Hi 👋
 
-💞️ I practice and write about data engineering | data modeling | machine learning
+💞️ I practice and write about site reliability engineering | data engineering | data modeling | machine learning
 
-👀 I am interested in data engineering and machine learning.
+👀 I am interested in devops/sre, data engineering and machine learning.
 
-💬 Ask me about Data engineering, SQL, Databases, Data Pipelines, Data Infrastructure, Data Science Engineering, Innovative Product Management
+💬 Ask me about DevOps/SRE, Data engineering, SQL, Databases, Data Pipelines, Data Infrastructure, Data Science Engineering, Innovative Product Management
 
 📄 Know about my experiences: https://josephitopa.github.io
 
@@ -22,8 +22,8 @@ Languages and Tools:
 
  aws | gcp | bash | flask | fastapi | git 
  
+ docker | kubernetes | argocd | openshift | tanzu | istio | kafka | redis | pinecone | claude | openai
+ 
  mysql | postgresql | sqlite | hadoop | hive | clickhouse
  
- pandas | python | kafka | redis | scikit_learn | pyspark | pytorch
- 
- airflow | pinecone | claude | openai | docker | kubernetes | argocd | openshift | tanzu | istio  
+ pandas | python | airflow | scikit_learn | pyspark | pytorch
